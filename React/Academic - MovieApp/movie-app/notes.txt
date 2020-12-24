@@ -1,0 +1,9 @@
+Look Up -
+Webpack,Babel,DOM,virtualDOM
+
+JSX and HTML differences-
+
+JSX returns single elements
+For multiple elements, every elements has to be inside of a div container
+camelCase for html attributes
+every elements have to be closed
