@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Rent a car",
+		"description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+		"website": "https://www.rentacar.com",
+		"phone": "(111) 111-1111",
+		"email": "vendor1@gmail.com",
+		"address": "Block: K, South Banasree, K-75 Dakhin Banasree Project Road, Dhaka 1219"
+		
+    },
+    {
+        "name": "Rent a car 2",
+		"description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+		"website": "https://www.rentacar2.com",
+		"phone": "(111) 111-1111",
+		"email": "vendor4@gmail.com",
+		"address": "Block: K, South Banasree, K-75 Dakhin Banasree Project Road, Dhaka 1219"
+
+    },
+    {
+        "name": "Khaled Decor",
+		"description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+		"website": "https://www.khaleddecor.com",
+		"phone": "(111) 111-1111",
+		"email": "vendor2@gmail.com",
+		"address": "Block: K, South Banasree, K-75 Dakhin Banasree Project Road, Dhaka 1219"
+    },
+    {
+        "name": "Boom Systems",
+		"description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+		"website": "https://www.boomsystems.com",
+		"phone": "(111) 111-1111",
+		"email": "vendor3@gmail.com",
+		"address": "Block: K, South Banasree, K-75 Dakhin Banasree Project Road, Dhaka 1219"
+    },
+    {
+        "name": "Nagor Tools",
+		"description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+		"website": "https://www.nagortools.com",
+		"phone": "(111) 111-1111",
+		"email": "vendor1@gmail.com",
+		"address": "Block: K, South Banasree, K-75 Dakhin Banasree Project Road, Dhaka 1219"
+    },
+    {
+        "name": "Billal Lodgings",
+		"description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+		"website": "https://www.billallodging.com",
+		"phone": "(111) 111-1111",
+		"email": "vendor4@gmail.com",
+		"address": "Jalalabad, Sylhet"
+    },
+    {
+        "name": "Travel Rooms",
+		"description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+		"website": "https://www.travelrooms.com",
+		"phone": "(111) 111-1111",
+		"email": "vendor2@gmail.com",
+		"address": "Block: K, South Banasree, K-75 Dakhin Banasree Project Road, Dhaka 1219"
+    },
+    {
+        "name": "Travel Companion",
+		"description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+		"website": "https://www.travelcompanion.com",
+		"phone": "(111) 111-1111",
+		"email": "vendor3@gmail.com",
+		"address": "Block: K, South Banasree, K-75 Dakhin Banasree Project Road, Dhaka 1219"
+    }
+]
