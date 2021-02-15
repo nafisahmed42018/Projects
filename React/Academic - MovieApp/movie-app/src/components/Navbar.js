@@ -1,22 +1,23 @@
 import React from "react";
-
+import {Link} from 'react-router-dom'
+//import { a } from "react-router-dom";
 const Navbar = () => {
   return (
     <div>
       <nav>
-        <div className="nav-wrapper">
-          <a href="#!" className="brand-logo" style={{ marginLeft: 20 }}>
+        <div className="nav-wrapper blue" >
+          <Link to="/" className="brand-logo" style={{ marginLeft: 20 }}>
             Movie DB
-          </a>
+          </Link>
           <ul id="nav-mobile" className="right hide-on-med-and-down">
             <li>
-              <a href="sass.html">Popular Movies</a>
+              <Link to="/">Popular Movies</Link>
             </li>
             <li>
-              <a href="badges.html">TV Shows</a>
+              <Link to="#!">TV Shows</Link>
             </li>
             <li>
-              <a href="collapsible.html">Profile</a>
+              <Link to="#!">Profile</Link>
             </li>
           </ul>
         </div>

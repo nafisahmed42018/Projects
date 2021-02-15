@@ -7,8 +7,8 @@ const MovieList = ({movies}) => {
     <div className="container">
       <div className="row">
         <div className="col s12">
-          { movies.map((movie, i) => {
-            return (<Movie data={movie} key={i} />);
+          { movies.map((movie, id) => {
+            return (<Movie data={movie} key={id} />);
           })}
         </div>
       </div>
